@@ -37,7 +37,7 @@
     <string name="chat_header_icons_mod">1.1.2 Kopfzeile Symbol Farbe</string>
     <string name="typingg_mod">2.2.27 Tippen</string>
     <string name="statuss_mod">2.2.25 Status Icon Farbe</string>
-    <string name="statuss_read_mod">"2.2.26 Doppelte 'Blaue Haken' Farbe"</string>
+    <string name="statuss_read_mode">"2.2.26 Doppelte 'Blaue Haken' Farbe"</string>
     <string name="chats_transparent_mode">2.6 Transparent Modus</string>
     <string name="chats_transparent_mode_sb_color">2.6.1 Statusleiste Farbe</string>
     <string name="chats_transparent_mode_nav_color">2.6.2 Navleiste Farbe</string>
@@ -228,7 +228,7 @@
     <string name="chats_unread_msg_bg_picker">Ungelesene Nachricht Hintergrundfarbe Picker</string>
     <string name="chats_unread_msg_bg_summary">Farbe für ungelesenen Nachrichtenhintergrund im Chats-Bildschirm wählen</string>
     <string name="upload_size_limit">5.1 Upload-Größenbeschränkung (Video)</string>
-    <string name="upload_size_limit_summary">Einstellung der maximalen Größe bei der Freigabe von Video</string>
+    <string name="upload_size_limit_summary">Einstellung der max. Größe bei Freigabe für Videos</string>
     <string name="hide_online_status">Online-Status ausblenden</string>
     <string name="show_online_status">Online-Status anzeigen</string>
     <string name="hide_writing_status">Schreibstatus ausblenden</string>
@@ -544,7 +544,7 @@
     <string name="video_resolution_H_summary">Max. Auflösung bei der Freigabe von Videos</string>
     <string name="status_bar_extended_notify">6.9 Erweiterte Benachrichtigung</string>
     <string name="status_bar_extended_notify_summary">Nachricht zur Statusleiste hinzufügen Benachrichtigung</string>
-    <string name="apply_theme">Anwendung</string>
+    <string name="apply_theme">Anwenden</string>
     <string name="chats_hide_hide_archived_chats_footer">2.2.31 Label für archivierte Chats ausblenden</string>
     <string name="appearance">AUSSEHEN</string>
     <string name="chats_status_online_text_mod">2.2.30 Online Text</string>
@@ -620,7 +620,7 @@
     <string name="contact_online_tone_do">2.3.5 Änderung der Position von Toast</string>
     <string name="tone_center">Mitte des Bildschirms</string>
     <string name="tone_bottom">Boden des Bildschirms</string>
-    <string name="tone_top">Oberseite des Bildschirms</string>
+    <string name="tone_top">Oben auf dem Bildschirm</string>    
     <string name="newtheme">Neu</string>
     <string name="hide_floatingbtn">2.7.4 Schwimmende Taste ausblenden</string>
     <string name="floatingbtn_mods">2.7 Schwimmende Taste</string>
@@ -725,8 +725,8 @@
     <string name="time_online_toast_7">7 Sekunden</string>
     <string name="time_online_toast_8">8 Sekunden</string>
     <string name="time_online_toast_9">9 Sekunden</string>
-    <string name="Benachrichtigung_emoji_icon_mod">3.14 Emoji Icon</string>
-    <string name="notification_emoji_icon_summary">Set Emoji Icon color</string>
+    <string name="Benachrichtigung_emoji_icon_mod">3.14 Emoji Symbol</string>
+    <string name="notification_emoji_icon_summary">Emoji Symbolfarbe auswählen</string>
     <string name="popup_text_entry_bg_mod">3.15 Texteingabe Hintergrund</string>
     <string name="popup_text_entry_bg_summary">Farbe für Texteingabehintergrund wählen</string>
     <string name="audio_upload_size_limit">5.3 Upload-Größenbeschränkung (Audio)</string>
@@ -739,13 +739,13 @@
     <string name="left_msg_mod_size_ch">Nachrichtengröße ändern</string>
     <string name="clean_whatsapp_cache">Themen Cache</string>
     <string name="clean_whatsapp_logs">whatsapp.logs</string>
-    <string name="clean_whatsapp_shared">Media Cache</string>
+    <string name="clean_whatsapp_shared">Medien Cache</string>
     <string name="clean_whatsapp_databases">Alte Chats Backups</string>
-    <string name="clean_whatsapp_pref">8 Clean WhatsApp Dateien</string>
-    <string name="custom_chats_menu">Custom Chats</string>
-    <string name="disable_all_customchats">Disable All</string>
+    <string name="clean_whatsapp_pref">8 Lösche WhatsApp Dateien</string>
+    <string name="custom_chats_menu">Benutzerdefinierte Chats</string>
+    <string name="disable_all_customchats">Alle deasktivieren</string>
     <string name="disable_custom_chats_privacy">Erledigt!</string>
-    <string name="disable_custom_chats_privacy_title">Custom Chats</string>
+    <string name="disable_custom_chats_privacy_title">Benutzerdefinierte Chats</string>
     <string name="disable_custom_chats_privacy_sum">Möchten Sie alle benutzerdefinierten Datenschutz-Chats deaktivieren?</string>
     <string name="disable_custom_chats_notify_sum">Möchten Sie alle benutzerdefinierten Benachrichtigungen deaktivieren?</string>
     <string name="online_toast_bg">2.5.5.5 Online Toast Hintergrund</string>
