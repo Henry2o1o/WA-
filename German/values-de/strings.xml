@@ -453,7 +453,7 @@
  1. Sie müssen online sein
  2. Sie müssen einen Chat mit dem Kontakt erstellen lassen."</string>
     <string name="chats_show_contact_online_toast">2.5.1 Kontakt Online Toast anzeigen</string>
-    <string name="chats_show_contact_online_tone">2.5.2 Spielen Sie auch Töne/string>
+    <string name="chats_show_contact_online_tone">2.5.2 Ton auswählen</string>
     <string name="chats_right_bubble">1.2.9 Rechte Spechblase Farbe</string>
     <string name="chats_right_bubble_picker">Rechte Spechblase Farbe auswählen</string>
     <string name="chats_right_bubble_summary">Farbe für Sprechblasen auf der rechten Seite im Konversationsbildschirm wählen</string>
