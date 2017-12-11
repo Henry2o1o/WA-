@@ -387,8 +387,8 @@
     <string name="reenter_passcode">Passwort erneut eingeben</string>
     <string name="change_passcode">7.2 Passcode ändern</string>
     <string name="passcode_wrong">Falsches Passwort, bitte versuchen Sie es erneut.</string>
-    <string name="disable_passcode">7.1 Deaktivieren des Passcodes</string>
-    <string name="enable_passcode">7.1 Aktivieren von passcode</string>
+    <string name="disable_passcode">7.1 Passwort deaktivieren</string>
+    <string name="enable_passcode">7.1 Passwort aktivieren</string>
     <string name="gb_lock">7 Sperren</string>
     <string name="left_msg_mod_size">1.2.7 Nachrichten Größe</string>
     <string name="left_msg_summary_size">Textgröße die im Konversation-Bildschirm empfangen wurde.</string>
@@ -754,7 +754,7 @@
     <string name="back_to_old_ui_sum">Show Contacts Tab anstelle von Status Tab</string>
     <string name="custom_chats_privacy_item">Datenschutz</string>
     <string name="custom_chats_notify_item">Benachrichtigungen</string>
-    <string name="view_messages_item">Ansicht der von %1$s</string> gesendeten Nachrichten</string>
+    <string name="view_messages_item">Ansicht der von %1$s gesendeten Nachrichten</string>
     <string name="view_messages_title">%1$s</string>
     <string name="view_messages_subtitle">%1$s Nachrichten</string>
     <string name="view_messages_dialog_copy">Nachrichten kopieren</string>
