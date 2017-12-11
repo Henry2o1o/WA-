@@ -22,7 +22,7 @@
     <string name="GB_CUpdates">Überprüfen auf Updates</string>
     <string name="GB_UpInfo">Update Info</string>
     <string name="GB_UpToDate">Ihre Version ist auf dem neuesten Stand.</string>
-    <string name="GB_ErrUp">Kann Update Info nicht abrufen.
+    <string name="GB_ErrUp">Kann Update Info nicht abrufen.</string>
     <string name="GB_FoundUp">Neueste GBWhatsApp Version ist %s</string>
     <string name="GB_Later">Schließen</string>
     <string name="GB_UDownload">Öffnen</string>
@@ -219,7 +219,7 @@
     <string name="chats_mute_icon_summary">Farbe für das Stumm-Symbol im Chat-Bildschirm wählen</string>
     <string name="chats_hide_divider_mod">2.2.17 Liste ausblenden Divider</string>
     <string name="chats_hide_divider_summary">Graue Listeneinteilung im Chats-Bildschirm ausblenden</string>
-    <string name="chats_row_divider_mod">2.2.16 Chats Divider</string>
+    <string name="chats_row_divider_mod">2.2.16 Chats Trennlinie</string>
     <string name="chats_row_divider_summary">Zeigt die Linie zwischen den Chats an</string>
     <string name="chats_date_pending_mod">2.2.8 Datum anstehenden Nachricht</string>
     <string name="chats_date_pending_summary">Farbe für das Datum der anstehenden Nachricht im Chats-Bildschirm wählen</string>
@@ -276,7 +276,7 @@
     <string name="chat_photo_summary">Kontaktfoto-Größe im Chat-Bildschirm festlegen</string>
     <string name="contact_name_mod">1.1.3 Kontakt Name Farbe</string>
     <string name="contact_name_summary">Farbe für den Kontaktnamen im Konversationsbildschirm wählen</string>
-    <string name="bold_names">1.1.4 Bold Text</string>
+    <string name="bold_names">1.1.4 Fetter Text</string>
     <string name="bold_names_summary">Fetter Text für Kontakt/Gruppenname setzen</string>
     <string name="contact_status_mod">1.1.5 Kontakt Status Farbe</string>
     <string name="contact_status_summary">Farbe für Kontaktstatus im Konversationsbildschirm wählen</string>
@@ -340,8 +340,8 @@
     <string name="emoji_bg_body_picker_summary">Emoji Hintergrundfarbe im Chatbildschirm einstellen</string>
     <string name="emoji_selected_view_mod">1.2.27 Emoji ausgewählte Linie</string>
     <string name="emoji_selected_view_picker_summary">Setzen Sie die Farbe der ausgewählten Tabulatorlinie im Chatbildschirm für Emoji.</string>
-    <string name="emoji_selected_mod">1.2.26 Emoji Selected Icon</string>
-    <string name="emoji_selected_picker_summary">Setzen Sie die Farbe des ausgewählten Symbols im Chat-Bildschirm auf den Namen </string>
+    <string name="emoji_selected_mod">1.2.26 Emoji Symbol auswählen</string>
+    <string name="emoji_selected_picker_summary">Setzen Sie die Farbe des ausgewählten Symbols im Chat-Bildschirm auf den Namen</string>
     <string name="chat_load_earlier_msgs_bg">1.2.31 Frühere Hintergrundgrafik laden</string>
     <string name="chat_load_earlier_msgs_bg_picker_summary">Laden Sie frühere Nachrichten mit Text-Hintergrundfarbe im Chat-Bildschirm</string>
     <string name="chat_load_earlier_msgs_text">1.2.30 Frühere Texte laden</string>
@@ -384,7 +384,7 @@
     <string name="popup_text_entry_summary">Farbe für Texteingabe im Chat-Bildschirm wählen</string>
     <string name="enter_passowrd">Passwort eingeben</string>
     <string name="enter_old_passcode">Altes Passwort eingeben</string>
-    <string name="reenter_passcode">Re-enter passcode</string>
+    <string name="reenter_passcode">Passwort erneut eingeben</string>
     <string name="change_passcode">7.2 Passcode ändern</string>
     <string name="passcode_wrong">Falsches Passwort, bitte versuchen Sie es erneut.</string>
     <string name="disable_passcode">7.1 Deaktivieren des Passcodes</string>
@@ -398,7 +398,7 @@
     <string name="widgets_summary">Geben Sie hier ein, um Widgets zu modulieren.</string>
     <string name="official_widget">Offizielles Widget</string>
     <string name="widget_bg">4.1 Hintergrund</string>
-    <string name="widget_header_background">4.2 Header Background</string>
+    <string name="widget_header_background">4.2 Kopfzeilen Hintergrund</string>
     <string name="widget_header_title">4.3 Titel</string>
     <string name="widget_header_title_size">4.4 Titel Größe</string>
     <string name="widget_header_subtitle">4.5 Untertitel</string>
@@ -406,7 +406,7 @@
     <string name="widget_contact_name">4.7 Kontakt/Gruppenname</string>
     <string name="widget_contact_name_size">4.8 Kontakt/Gruppenname Größe</string>
     <string name="widget_date">4.9 Datum</string>
-    <string name="widget_date_size">4.10 Date Size</string>
+    <string name="widget_date_size">4.10 Datumgröße</string>
     <string name="widget_message">4.11 Meldung</string>
     <string name="widget_message_size">4.12 Nachrichtengröße</string>
     <string name="widget_small_bg">4.13 Counter Hintergrund</string>
@@ -414,8 +414,8 @@
     <string name="widget_counter">4.14 Zähler</string>
     <string name="popup_mic_icon_mod">3.12 Mic Taste</string>
     <string name="popup_mic_icon_summary">Farbe für Mic-Button im Benachrichtigungsbildschirm wählen</string>
-    <string name="popup_send_icon_mod">3.11 Sendebutton Farbe</string>
-    <string name="popup_send_icon_picker">Send Icon Color Picker</string>
+    <string name="popup_send_icon_mod">3.11 Sendetaste Farbe</string>
+    <string name="popup_send_icon_picker">Sendetaste Farbauswahl</string>
     <string name="popup_send_icon_summary">Farbe für Sendebutton im Popup-Bildschirm wählen</string>
     <string name="popup_locked_bg">3.10 Gesperrte Hintergrundfarbe</string>
     <string name="popup_locked_bg_picker">Gesperrter Hintergrund Farbe</string>
@@ -427,17 +427,17 @@
     <string name="popup_status_picker">Kontaktstatus Farbauswahl</string>
     <string name="popup_status_picker_summary">Kontaktstatusfarbe im Benachrichtigungsbildschirm festlegen</string>
     <string name="popup_counter_mod">3.8 Zähler Farbe</string>
-    <string name="popup_counter_picker">Counter Farbauswahl</string>
-    <string name="popup_counter_picker_summary">Set Messages Counter Color in Notification Screen</string>
-    <string name="popup_buttons_text_mod">3.9 Buttons Textfarbe</string>
-    <string name="popup_buttons_text_picker">Buttons Text Color Picker</string>
-    <string name="popup_buttons_text_picker_summary">Set Buttons Textfarbe im Benachrichtigungsbildschirm festlegen</string>
+    <string name="popup_counter_picker">Zähler Farbauswahl</string>
+    <string name="popup_counter_picker_summary">Farbe des Nachrichtenzählers im Benachrichtigungsbild einstellen</string>
+    <string name="popup_buttons_text_mod">3.9 Taste Textfarbe</string>
+    <string name="popup_buttons_text_picker">Taste Textfarbe auswählen</string>
+    <string name="popup_buttons_text_picker_summary">Schaltflächen Textfarbe im Benachrichtigungsbildschirm einstellen</string>
     <string name="popup_header_size">Header Größe</string>
-    <string name="popup_header_size_summary">Set Header Size in Notification Screen</string>
+    <string name="popup_header_size_summary">Kopfzeilengröße im Benachrichtigungsbildschirm einstellen</string>
     <string name="popup_colors">3 Popup-Benachrichtigung</string>
     <string name="popup_colors_summary">Geben Sie hier ein, um die Popup-Benachrichtigung zu modifizieren</string>
     <string name="popup_header_background">3.1 Überschrift</string>
-    <string name="popup_header_background_picker">Header Color Picker</string>
+    <string name="popup_header_background_picker">Kopfzeilenfarbe Auswahl</string>
     <string name="popup_header_background_summary">Farbe für den Hintergrund des Meldungskopfes wählen</string>
     <string name="popup_hintergrund">3.2 Hintergrund</string>
     <string name="popup_background_picker">Hintergrundfarbe Picker</string>
@@ -445,8 +445,8 @@
     <string name="popup_footer_hintergrund">3.5 Footer Hintergrund</string>
     <string name="popup_footer_background_picker">Benachrichtigung Fußzeile Hintergrundfarbe Picker</string>
     <string name="popup_footer_background_summary">Farbe für den Hintergrund der Benachrichtigungs-Fußzeile auswählen</string>
-    <string name="popup_message_text_mod">3.3 Mesage Text Farbe</string>
-    <string name="popup_message_text_picker">Message Text Color Picker</string>
+    <string name="popup_message_text_mod">3.3 Nachrichten Textfarbe</string>
+    <string name="popup_message_text_picker">Nachrichten Textfarbe auswählen</string>
     <string name="popup_message_text_summary">Farbe für den Meldungstext im Benachrichtigungsbildschirm wählen</string>
     <string name="chats_online">2.5 Kontakt Online Toast</string>
     <string name="chats_online_summary">"Toast anzeigen, wenn der Kontakt online ist
@@ -595,8 +595,8 @@
     <string name="gd_mode_LR">LINKS nach RECHTS</string>
     <string name="sliderbg">2.1.9 Tab Hintergrund Farbe</string>
     <string name="btn_emoji_bg">1.2.44 Schaltfläche Hintergrund löschen</string>
-    <string name="background_gradient_mode">Gradient Orientation</string>
-    <string name="header_gd_bg_picker">Gradient Farbe</string>
+    <string name="background_gradient_mode">Farbverlauf Mode</string>
+    <string name="header_gd_bg_picker">Verlauf Farbe</string>
     <string name="chat_contact_pic">1.4.1 Chat-Kontakt Bild</string>
     <string name="chat_contact_pic_summary">Zeige Kontaktbild auf jeder Nachricht</string>
     <string name="group_participant_pic">1.4.2 Teilnehmer Bild</string>
@@ -679,7 +679,7 @@
     <string name="contacts_status_online_text_summary">Online-Textfarbe in der Kontaktmaske wählen</string>
     <string name="contacts_status_text_mod">2.4.12 Status Text</string>
     <string name="contacts_status_text_summary">Select Status Textfarbe im Kontaktbildschirm wählen</string>
-    <string name="chat_disable_voice_calls_title">Disable Voice Calls</string>
+    <string name="chat_disable_voice_calls_title">Sprachanrufe deaktivieren</string>
     <string name="chat_disable_voice_calls_sum">"Sie werden keine Sprachanrufe von diesem Chat erhalten"</string>
     <string name="encryption_bubble_vis">1.2.53 Verschlüsselungsblase ausblenden</string>
     <string name="encryption_bubble_vis_summary">Sie erhalten keine Meldung, dass die Konversation verschlüsselt wurde</string>
@@ -702,7 +702,7 @@
     <string name="missed_call_text_color">1.2.54 Verpasster Aufruftext</string>
     <string name="missed_call_icon_bg">1.2.55 Symbol für verpasste Anrufe</string>
     <string name="missed_call_icon_bg_chats">2.2.32 Symbol für verpasste Anrufe</string>
-    <string name="disable_download_voice_note">6.18 download voice notes</string>
+    <string name="disable_download_voice_note">6.18 Sprachnotizen herunterladen</string>
     <string name="disable_download_voice_note_sum">Abbrechen des automatischen Herunterladens von Sprachnotizen</string>
     <string name="contacts_invit_bg_mod">2.4.10A Invit Hintergrund Farbe</string>
     <string name="contacts_invit_bg_picker">Farbe für Hintergrundkontakte auswählen invit in Contacts screen</string>
@@ -712,7 +712,7 @@
     <string name="popup_mic_circle_mod_summary">Farbe des Hintergrundkreises für Mikrofon ändern</string>
     <string name="chats_elapsed_time_mod">2.2.2.2c Verstrichene Zeit</string>
     <string name="chats_elapsed_time_summary">Zeigt die verstrichene Zeit anstelle von Datum und Zeit an</string>
-    <string name="gb_call_phone">Call Phone</string>
+    <string name="gb_call_phone">Telefon Anruf</string>
     <string name="contacts_group_names_names_mod">2.4.14 Gruppennamen Farbe</string>
     <string name="contacts_group_names_summary">Farbe für Gruppennamen im Bildschirm"Forward Contacts" auswählen</string>
     <string name="time_online_toast">2.5.4 Dauer der Benachrichtigung</string>
@@ -729,12 +729,12 @@
     <string name="notification_emoji_icon_summary">Set Emoji Icon color</string>
     <string name="popup_text_entry_bg_mod">3.15 Texteingabe Hintergrund</string>
     <string name="popup_text_entry_bg_summary">Farbe für Texteingabehintergrund wählen</string>
-    <string name="audio_upload_size_limit">5.3 Upload Size Limit(Audio)</string>
+    <string name="audio_upload_size_limit">5.3 Upload-Größenbeschränkung (Audio)</string>
     <string name="audio_upload_size_limit_summary">Maximale Größenbeschränkung bei der gemeinsamen Nutzung von Audio</string>
     <string name="disable_passcode2">Deaktivierbarer Passcode</string>
-    <string name="enable_passcode2">Enable passcode</string>
-    <string name="change_passcode2">Passcode ändern</string>
-    <string name="chat_icon_forward">1.2.56 Forward-Symbol</string>
+    <string name="enable_passcode2">Passwort aktivieren</string>
+    <string name="change_passcode2">Passwort ändern</string>
+    <string name="chat_icon_forward">1.2.56 Weiterleiten-Symbol</string>
     <string name="chat_bg_forward">1.2.57 Hintergrund weiterleiten</string>
     <string name="left_msg_mod_size_ch">Nachrichtengröße ändern</string>
     <string name="clean_whatsapp_cache">Themen Cache</string>
@@ -767,7 +767,7 @@
     <string name="view_messages_msg_color">Nachricht</string>
     <string name="view_messages_bg_bubble">Sprechblase Farbe</string>
     <string name="view_messages_date_color">Datum</string>
-    <string name="view_messages_divider">Divider</string>
+    <string name="view_messages_divider">Trennlinie</string>
     <string name="view_messages_item_me">Meine gesendeten Nachrichten anzeigen</string>
     <string name="group_sort_by">Sortieren nach…</string>
     <string name="group_sort_by_1">Sortieren der Nachrichten-Zählung als Vorgabe</string>
@@ -785,7 +785,7 @@
     <string name="conversation_hidden">Versteckt</string>
     <string name="hidechat_notifications_msg">Sie haben eine neue Nachricht</string>
     <string name="Title_setNew_Pattern">Neues Muster setzen</string>
-    <string name="Title_confirmPattern">Confirm pattern</string>
+    <string name="Title_confirmPattern">Muster bestätigen</string>
     <string name="Title_patternError">Falsches Muster</string>
     <string name="forgot_Pass_title">Vergessenes Muster?</string>
     <string name="snackbar_short_Pattern">Muster muss mindestens 4 Punkte enthalten!</string>
@@ -863,7 +863,7 @@
     <string name="download_manager_image">Bilder</string>
     <string name="download_manager_image_sub">Bilder von %1$s werden automatisch heruntergeladen</string>
     <string name="download_manager_image_sub1">Bilder von %1$s werden nicht automatisch heruntergeladen</string>
-    <string name="download_manager_video">Videos</string>
+    <string name="download_manager_video">Video</string>
     <string name="download_manager_video_sub">Videos von %1$s werden automatisch heruntergeladen </string>
     <string name="download_manager_video_sub1">Videos von %1$s werden nicht automatisch heruntergeladen</string>
     <string name="download_manager_audio">Audio</string>
@@ -883,16 +883,16 @@
     <string name="msg_to_Groups_toast">Sie können nur Textnachrichten an Gruppen senden</string>
     <string name="msg_to_groups_menu">Broadcast-Nachricht an Gruppen</string>
     <string name="msg_to_groups_sent">Broadcast gesendet an Gruppen</string>
-    <string name="clear_chat_keep_private_messages">Keep Private Nachrichten</string>
-    <string name="clear_chat_keep_groups_messages">Keep Groups Messages</string>
-    <string name="clear_chat_keep_broadcast_messages">Keep Broadcasts Nachrichten</string>
+    <string name="clear_chat_keep_private_messages">Private Nachrichten behalten</string>
+    <string name="clear_chat_keep_groups_messages">Gruppennachrichten behaltens</string>
+    <string name="clear_chat_keep_broadcast_messages">Nachrichten von Broadcasts behalten</string>
     <string name="read_more_title">"1.2.63 Entfernen von 'Lesen Sie mehr…'"</string>
     <string name="read_more_sum">"Entfernen 'Lesen Sie mehr' beim Empfang einer langen Nachricht"</string>
     <string name="revoke_msg_menu">Anti-Revoke aktivieren</string>
     <string name="revoke_dis_msg_menu">Anti-Revoke deaktivieren</string>
     <string name="gb_custom_revoke_privacy1">"'%1$s' Nachrichten werden widerrufen"</string>
     <string name="gb_custom_revoke_privacy">"'%1$s' Nachrichten werden nicht widerrufen"</string>
-    <string name="revoke_gb">Enable Anti-Revoke</string>
+    <string name="revoke_gb">Anti-Revoke aktivieren</string>
     <string name="gbinsta_title_pref">Download anderes Projekt (GBInstagram)</string>
     <string name="gbinsta_title">Folgen Sie unserem anderen Projekt</string>
     <string name="gbinsta_msg">"GBInstagram mit vielen tollen Features
@@ -905,11 +905,10 @@
 \u0009*Vorschau Videos in Ihrem Lieblings-Video-Player
 \u0009*Support-Links in der App
 \u0009*wird wissen, wer Ihnen folgt"</string>
-  <string name="actionbar_style">1.1.15 Aktionsleisten Stil</string>
-    <string name="tooltip_msg_revoked">Diese Nachricht wurde von user</string> widerrufen</string>
+    <string name="actionbar_style">1.1.15 Aktionsleisten Stil</string>
+    <string name="tooltip_msg_revoked">Diese Nachricht wurde von Nutzer widerrufen</string>
     <string name="disable_internt">Deaktiviere Internet</string>
     <string name="enable_internt">Aktiviere Internet</string>
     <string name="chat_hide_internet_icon">2.1.10 Ausblenden deaktiviere Internet-Symbol</string>
     <string name="chat_hide_internet_icon_summary">Das Symbol Internet deaktivieren in der Kopfzeile ausblenden.</string>
     <string name="internet_disabled_listview">Ist nicht mit dem Internet verbunden</string>
-    
