@@ -1,7 +1,6 @@
-
-    <string name="crash_toast_text">Ooooops ! Ich stürzte ab, aber ein Bericht wurde an meinen Entwickler geschickt, um ihm zu helfen, das Problem zu beheben!</string>
+    <string name="crash_toast_text">Ooooops! Ich stürzte ab, aber ein Bericht wurde an meinen Entwickler geschickt, um ihm zu helfen das Problem zu beheben!</string>
     <string name="crash_dialog_title">OpenFixMap ist abgestürzt</string>
-    <string name="crash_dialog_text">"Ein unerwarteter Fehler trat auf und zwang die Anwendung zum Stoppen. Bitte helfen Sie uns, dies zu beheben, indem Sie uns die Fehlerdaten zusenden, alles was Sie tun müssen, ist auf "OK" zu tippen."</string>".
+    <string name="crash_dialog_text">"Ein unerwarteter Fehler trat auf und zwang die Anwendung zum Stoppen. Bitte helfen Sie uns, dies zu beheben, indem Sie uns die Fehlerdaten zusenden, alles was Sie tun müssen, ist auf "OK" zu tippen."</string>
     <string name="crash_dialog_comment_prompt">Sie können Ihre Kommentare zu dem Problem unten hinzufügen:</string>
     <string name="crash_dialog_ok_toast">Danke schön</string>
     <string name="statuscopy">Status in die Zwischenablage kopiert</string>
@@ -42,7 +41,7 @@
     <string name="chats_transparent_mode">2.6 Transparent Modus</string>
     <string name="chats_transparent_mode_sb_color">2.6.1 Statusleiste Farbe</string>
     <string name="chats_transparent_mode_nav_color">2.6.2 Navleiste Farbe</string>
-    <string name="tutorial_rename_folder">Wenn Sie die Chats Historie von WhatsApp wiederherstellen wollen, stellen Sie sicher, dass Sie ein Backup von Ihren Nachrichten erstellt haben, dann können Sie es wiederherstellen, indem Sie den Knopf unten drücken, dann setzen Sie Ihre Nummer ein - drücken Sie auf (Überprüfen).
+    <string name="tutorial_rename_folder">Wenn Sie die Chats Historie von WhatsApp wiederherstellen wollen, stellen Sie sicher, dass Sie ein Backup von Ihren Nachrichten erstellt haben, dann können Sie es wiederherstellen, indem Sie den Knopf unten drücken, dann setzen Sie Ihre Nummer ein - drücken Sie auf (Überprüfen).</string>
     <string name="failed_rename_toast">Nicht gefundene Daten reserviert</string>
     <string name="CopyDone">Wenn Sie die WhatsApp Daten erfolgreich kopiert haben, können Sie nun die Schritte durchführen!</string>
     <string name="CopyBtn">Copy WhatsApp Daten kopieren</string>
@@ -71,7 +70,7 @@
     <string name="gb_icons">6.0 Launcher Symbol</string>
     <string name="gb_nicons">6.3 Benachrichtigungsleiste Icon</string>
     <string name="always_online">6.5 Immer online</string>
-    <string name="always_online_summary">Bleiben Sie immer online, auch wenn der Bildschirm ausgeschaltet ist.
+    <string name="always_online_summary">Bleiben Sie immer online, auch wenn der Bildschirm ausgeschaltet ist.</string>
     <string name="chat_hide_cam_icon">1.2.36 Kamera ausblenden Symbol</string>
     <string name="voice_notes_disabled">1.2.35 Deaktivieren von Sprachnotizen</string>
     <string name="selectable_text_off">1.2.2.2 Wählbarer Text Aus</string>
@@ -117,7 +116,7 @@
     <string name="urlcopy">Url in die Zwischenablage kopiert</string>
     <string name="previewurl">Vorschau</string>
     <string name="copyurl">Kopieren Sie Url</string>
-    <string name="shareurl">Teilen Sie Url</string><
+    <string name="shareurl">Teilen Sie Url</string>
     <string name="photo_saved">In Galerie gespeichert (%s)</string>
     <string name="menu_share_title">6.6 Ausblenden des Sharing-Menüs</string>
     <string name="menu_share_summary">Verwenden Sie die Vorschau wie bisher ohne Freigabemenü</string>
@@ -165,7 +164,7 @@
     <string name="chats_contacts_names_size_summary">Kontakt/Gruppennamen Textgröße einstellen</string>
     <string name="contacts_phone_type_mod">2.4.4.4 Telefontyp Farbe</string>
     <string name="contacts_phone_type_picker">Telefontyp Farbauswahl</string>
-    <string name="contacts_phone_type_summary">"Farbe für den Telefontyp der Kontakte auf dem Bildschirm 'Kontakte'.</string>
+    <string name="contacts_phone_type_summary">"Farbe für den Telefontyp der Kontakte auf dem Bildschirm 'Kontakte'."</string>
     <string name="contacts_status_mod">2.4.6 Status Farbe</string>
     <string name="contacts_status_picker">Status Farbauswahl</string>
     <string name="contacts_status_summary">Farbe für den Status der Kontakte im Bildschirm Kontakte auswählen</string>
@@ -347,7 +346,7 @@
     <string name="chat_load_earlier_msgs_bg_picker_summary">Laden Sie frühere Nachrichten mit Text-Hintergrundfarbe im Chat-Bildschirm</string>
     <string name="chat_load_earlier_msgs_text">1.2.30 Frühere Texte laden</string>
     <string name="chat_load_earlier_msgs_text_picker_summary">Laden Sie frühere Nachrichten mit Textfarbe im Chat-Bildschirm</string>
-    <string name="no_media_info">Medieninfo ausblenden</string>  
+    <string name="no_media_info">Medieninfo ausblenden</string>
     <string name="no_media_info_summary">Medieninfo in der Mediengalerie ausblenden</string>
     <string name="text_entry_mod">1.2.24 Farbe der Texteingabe</string>
     <string name="text_entry_summary">Farbe für Text im Texteingabefeld im Konversationsbildschirm wählen</string>
@@ -391,12 +390,12 @@
     <string name="disable_passcode">7.1 Deaktivieren des Passcodes</string>
     <string name="enable_passcode">7.1 Aktivieren von passcode</string>
     <string name="gb_lock">7 Sperren</string>
-    <string name="left_msg_mod_size">1.2.7 Msg Größe</string>
-    <string name="left_msg_summary_size">Select Size für Text, der im Conversation screen</string> empfangen wurde.
-    <string name="left_date_mod_size">1.2.12 Date Size</string>
-    <string name="left_date_summary_size">Select Size for date in Conversation screen</string>
+    <string name="left_msg_mod_size">1.2.7 Nachrichten Größe</string>
+    <string name="left_msg_summary_size">Textgröße die im Konversation-Bildschirm empfangen wurde.</string>
+    <string name="left_date_mod_size">1.2.12 Datumgröße</string>
+    <string name="left_date_summary_size">"Größe für das Datum im Bildschirm 'Konversation'auswählen"</string>
     <string name="widgets">4 Widgets</string>
-    <string name="widgets_summary">Geben Sie hier ein, um Widgets</string> zu modulieren.
+    <string name="widgets_summary">Geben Sie hier ein, um Widgets zu modulieren.</string>
     <string name="official_widget">Offizielles Widget</string>
     <string name="widget_bg">4.1 Hintergrund</string>
     <string name="widget_header_background">4.2 Header Background</string>
@@ -463,7 +462,7 @@
     <string name="chats_left_bubble_summary">Farbe für Sprechblasen auf der linken Seite im Konversationsbildschirm wählen</string>
     <string name="restore_error_msg0">Keine Einstellungsdatei in %s gefunden</string>
     <string name="saved_to">%1$s gespeichert auf %2$s</string>
-    <string name="restore_from_sd">%s wird von SD-Karte wiederhergestellt.</string> 
+    <string name="restore_from_sd">%s wird von SD-Karte wiederhergestellt.</string>
     <string name="save_ok_msg">Einstellungen, die in SD-Karte gespeichert werden.</string>
     <string name="save_error_msg0">Einstellungsdatei noch nicht erstellt. Wenden Sie zuerst ein beliebiges GBWhatsApp MOD an, bitte</string>
     <string name="restore_ok_msg">Einstellungen von SD-Karte wiederhergestellt</string>
@@ -478,7 +477,7 @@
     <string name="reboot">Neustart</string>
     <string name="enter_name">Eingabe-Themenname:</string>
     <string name="clear_logs">6.8 Programm Logs löschen</string>
-    <string name="clear_logs_summary">Benutzen Sie diese Option einmal alle zwei Tage, da er die Logs des Programms löscht, die bis zu 500 MB groß werden können.
+    <string name="clear_logs_summary">Benutzen Sie diese Option einmal alle zwei Tage, da er die Logs des Programms löscht, die bis zu 500 MB groß werden können.</string>
     <string name="hide_notifybar_groups">Gruppen ausblenden</string>
     <string name="hide_notifybar_groups_mute">Gruppen ausblenden bei Stumm</string>
     <string name="hide_notifybar_contacts">Kontakte ausblenden</string>
@@ -486,7 +485,7 @@
     <string name="hide_no">Nicht ausblenden</string>
     <string name="open_keyboard">1.2.38 Beendet öffnen der Tastatur</string>
     <string name="open_keyboard_summary">Nicht, um die Tastatur automatisch zu öffnen, wenn die Konversation eingegeben wird</string>
-    <string name="status_summary2">Farbe des Status Symbols im Konversation-Bildschirm</string> auswählen
+    <string name="status_summary2">Farbe des Status Symbols im Konversation-Bildschirm auswählen</string>
     <string name="chats_group_names_mod">2.2.5 Gruppennamen Farbe</string>
     <string name="chats_group_names_summary">Farbe für Gruppennamen im Chats-Bildschirm wählen</string>
     <string name="chats_msg2_mod">2.2.11 Farbmeldung Ungelesen</string>
@@ -505,12 +504,12 @@
     <string name="call_missed">2.3.11 Anrufe verpasst Symbolfarbe</string>
     <string name="call_count">2.3.12 Anrufe zählen Farbe</string>
     <string name="tabindicator">2.1.8 Ausgewählter Tabulator Unterstrich Farbe</string>
-    <string name="record_mod">\"2.2.28 Ist die Aufnahme\"</string>
-    <string name="record_summary">Farbe auswählen für \"Is recording\" text</string>
+    <string name="record_mod">\"2.2.28 Aufnahme Modus\"</string>
+    <string name="record_summary">Farbe auswählen für \"Aufnahmemudus\" Text</string>
     <string name="conversation_name_is_composingg">Schreibt…</string>
     <string name="conversation_name_is_recordingg">Audioaufzeichnung…</string>
     <string name="chat_transparent_mode">1.3 Transparenter Modus</string>
-    <string name="chat_transparent_mode_sb_color">1.3.1 Statusleisten Farbe<
+    <string name="chat_transparent_mode_sb_color">1.3.1 Statusleisten Farbe</string>
     <string name="chat_transparent_mode_sb_color_summary">Statusleisten Farbe einstellen</string>
     <string name="chat_transparent_mode_nav_color">1.3.2 Navleiste Farbe</string>
     <string name="chat_transparent_mode_nav_color_summary">Navleisten Farbe einstellen</string>
@@ -557,7 +556,7 @@
     <string name="download_themes">Download Themen</string>
     <string name="download_themes_summary">Download von Themen, die von GBWhatsApp-Benutzern erstellt wurden</string>
     <string name="twitter_title">Folge mir auf Twitter</string>
-    <string name="twitter_msg">Möchten Sie dem Entwickler auf Twitter folgen?
+    <string name="twitter_msg">Möchten Sie dem Entwickler auf Twitter folgen?</string>
     <string name="widget_hide_online_status">Online</string>
     <string name="widget_show_online_status">Offline</string>
     <string name="change_password">Passwort ändern</string>
@@ -626,6 +625,7 @@
     <string name="hide_floatingbtn">2.7.4 Schwimmende Taste ausblenden</string>
     <string name="floatingbtn_mods">2.7 Schwimmende Taste</string>
     <string name="floatingbtn_bg_color">2.7.5 Symbol Farbe</string>
+    <string name="floatingbtn_pencil_color">2.7.6 Symbol Farbe</string>    
     <string name="pic_chats_size">2.2.31 Chats Bildgröße</string>
     <string name="circle_notify_color">6.13 Benachrichtigung Kreis Farbe</string>
     <string name="circle_notify_color_sum">Farbe des Hintergrundes des Benachrichtigungskreises für Android Lollipop ändern</string>
@@ -674,7 +674,7 @@
     <string name="quoted_divider">1.2.52 Zitierteiler</string>
     <string name="quoted_divider_sum">Wählen Sie die Farbe für den Zitierteiler aus</string>
     <string name="contacts_show_contact_status_check_mod">2.4.0 Kontaktstatus anzeigen</string>
-    <string name="contacts_show_contact_status_check_summary">Show Contact Status in Contacts Screen. Kann die Nutzung von Internetdaten erhöhen, und die Leistung kann abnehmen.
+    <string name="contacts_show_contact_status_check_summary">Kontaktstatus im Kontaktbildschirm anzeigen. Kann die Nutzung von Internetdaten erhöhen, und die Leistung kann abnehmen.</string>
     <string name="contacts_status_online_text_mod">2.4.13 Online Text</string>
     <string name="contacts_status_online_text_summary">Online-Textfarbe in der Kontaktmaske wählen</string>
     <string name="contacts_status_text_mod">2.4.12 Status Text</string>
@@ -696,7 +696,7 @@
     <string name="gb_hideplay_sum1">Tell %1$s, dass Sie seine/ihre Sound-/Sprachnachricht abgespielt haben</string>
     <string name="disable_headsup_g_notify">6.11.1 Aktivieren der Heads-Up-Benachrichtigung</string>
     <string name="disable_headsup_g_notify_summary">Enable Heads-Up Notification für Gruppen in Android Lollipop und up</string>
-    <string name="disable_headsup_notify">6.11 Deaktivieren der Heads-Up-Benachrichtigung</string>   
+    <string name="disable_headsup_notify">6.11 Deaktivieren der Heads-Up-Benachrichtigung</string>
     <string name="disable_headsup_notify_summary">Disable Heads-Up Notification für Kontakte in Android Lollipop und up</string>
     <string name="missed_call_bg">1.2.53 Verpasste Anrufblase</string>
     <string name="missed_call_text_color">1.2.54 Verpasster Aufruftext</string>
@@ -709,9 +709,9 @@
     <string name="chats_contact_icon_mod">2.2.33 Kontakt Icon Farbe</string>
     <string name="chats_contact_icon_summary">Farbe für das Kontaktsymbol im Chats-Bildschirm wählen</string>
     <string name="popup_mic_circle_mod">3.13 Mic Circle Farbe</string>
-    <string name="popup_mic_circle_mod_summary">Farbe des Hintergrundkreises für Mic</string> ändern
+    <string name="popup_mic_circle_mod_summary">Farbe des Hintergrundkreises für Mikrofon ändern</string>
     <string name="chats_elapsed_time_mod">2.2.2.2c Verstrichene Zeit</string>
-    <string name="chats_elapsed_time_summary">Zeigt die verstrichene Zeit anstelle von Datum und Zeit an.
+    <string name="chats_elapsed_time_summary">Zeigt die verstrichene Zeit anstelle von Datum und Zeit an</string>
     <string name="gb_call_phone">Call Phone</string>
     <string name="contacts_group_names_names_mod">2.4.14 Gruppennamen Farbe</string>
     <string name="contacts_group_names_summary">Farbe für Gruppennamen im Bildschirm"Forward Contacts" auswählen</string>
@@ -746,8 +746,8 @@
     <string name="disable_all_customchats">Disable All</string>
     <string name="disable_custom_chats_privacy">Erledigt!</string>
     <string name="disable_custom_chats_privacy_title">Custom Chats</string>
-    <string name="disable_custom_chats_privacy_sum">Möchten Sie alle benutzerdefinierten Datenschutz-Chats deaktivieren?></string>
-    <string name="disable_custom_chats_notify_sum">Möchten Sie alle benutzerdefinierten Benachrichtigungen deaktivieren?
+    <string name="disable_custom_chats_privacy_sum">Möchten Sie alle benutzerdefinierten Datenschutz-Chats deaktivieren?</string>
+    <string name="disable_custom_chats_notify_sum">Möchten Sie alle benutzerdefinierten Benachrichtigungen deaktivieren?</string>
     <string name="online_toast_bg">2.5.5.5 Online Toast Hintergrund</string>
     <string name="online_toast_text">2.5.6 Online Toast Text Farbe</string>
     <string name="back_to_old_ui">6.8 Kontakte anzeigen Tab</string>
@@ -799,12 +799,12 @@
     <string name="dialog_restore_Pass_neg">Verwerfen</string>
     <string name="dialog_restore_Pass_pos">Bestätigen</string>
     <string name="pattern_adapter_restorePass_1">Ihr bester Freund Name?</string>
-    <string name="pattern_adapter_restorePass_2">Wo wohnen Sie?
+    <string name="pattern_adapter_restorePass_2">Wo wohnen Sie?</string>
     <string name="snack_forgot_Pass_Failed">"Falsche Antwort! Musterwiederherstellung verweigert!"</string>
     <string name="snack_forgot_Pass_Success">Antwort ist richtig! Bitte setzen Sie ein neues Muster.</string>
     <string name="tap_to_reveal_chats">"Tippen Sie auf '%1$s', um Chats aufzudecken"</string>
     <string name="statuses_bar_bg">2.2.34 Aktuelle Updates-Leiste</string>
-    <string name="statuses_bar_bg_sum">Farbe des Hintergrundes ändern letzte Updates bar</string>
+    <string name="statuses_bar_bg_sum">Farbe des Hintergrundes ändern letzte Updates-Leiste</string>
     <string name="statuses_bar_text">2.2.35 Letzte Aktualisierungen text</string>
     <string name="statuses_bar_text_sum">Farbe des Textes ändern letzte Aktualisierung bar</string>
     <string name="old_ui_1">Kontakt Tab anstelle von Status Tab</string>
@@ -813,7 +813,7 @@
     <string name="chat_hide_attach_icon">1.1.14 Symbol für Anhänge verbergen</string>
     <string name="chat_hide_attach_icon_summary">Symbol für Anhänge in der Kopfzeile verbergen</string>
     <string name="chat_hide_attach_e_icon">1.2.44 Symbol für Anhänge verbergen</string>
-    <string name="chat_hide_attach_e_icon_summary">Symbol für Anhänge in dem Eintrag verbergen.</string>
+    <string name="chat_hide_attach_e_icon_summary">Symbol für Anhänge in dem Eintrag verbergen</string>
     <string name="change_pattern">Muster ändern</string>
     <string name="Go_To_First_Message">Gehe zur ersten Nachricht</string>
     <string name="chats_bc_mod">2.2.5A Broadcast-Farbe</string>
@@ -846,7 +846,7 @@
     <string name="repetition_4">Monatlich</string>
     <string name="repetition_5">Jährlich</string>
     <string name="contacts_bc_names_mod">2.4.15 Broadcast Namen Farbe</string>
-    <string name="contacts_bc_names_summary">"Farbe für Broadcast auswählen Namen im Bildschirm 'Kontakten weiterleiten'"</string>  
+    <string name="contacts_bc_names_summary">"Farbe für Broadcast auswählen Namen im Bildschirm 'Kontakten weiterleiten'"</string>
     <string name="mention_color_chat">1.2.58 Erwähnung Farbe</string>
     <string name="mention_color_chats">2.2.36 Erwähnung Farbe</string>
     <string name="broadcast_chat_icon_color">1.2.59 Broadcast Symbol Farbe</string>
@@ -870,7 +870,7 @@
     <string name="download_manager_audio_sub">Audio von %1$s wird automatisch heruntergeladen</string>
     <string name="download_manager_audio_sub1">Audio von %1$s wird nicht automatisch heruntergeladen</string>
     <string name="download_manager_doc">Dokumente</string>
-    <string name="download_manager_doc_sub">Dokumente von %1$s werden automatisch heruntergeladen.
+    <string name="download_manager_doc_sub">Dokumente von %1$s werden automatisch heruntergeladen</string>
     <string name="download_manager_doc_sub1">Dokumente von %1$s werden nicht heruntergeladen Automatisch</string>
     <string name="settings_download_manager">Auto-Download</string>
     <string name="send_image_original_title">5.5 Originalbildgröße</string>
@@ -887,7 +887,7 @@
     <string name="clear_chat_keep_groups_messages">Keep Groups Messages</string>
     <string name="clear_chat_keep_broadcast_messages">Keep Broadcasts Nachrichten</string>
     <string name="read_more_title">"1.2.63 Entfernen von 'Lesen Sie mehr…'"</string>
-    <string name="read_more_sum">"Entfernen 'Lesen Sie mehr' beim Empfang einer langen Nachricht"</string>".
+    <string name="read_more_sum">"Entfernen 'Lesen Sie mehr' beim Empfang einer langen Nachricht"</string>
     <string name="revoke_msg_menu">Anti-Revoke aktivieren</string>
     <string name="revoke_dis_msg_menu">Anti-Revoke deaktivieren</string>
     <string name="gb_custom_revoke_privacy1">"'%1$s' Nachrichten werden widerrufen"</string>
@@ -895,7 +895,7 @@
     <string name="revoke_gb">Enable Anti-Revoke</string>
     <string name="gbinsta_title_pref">Download anderes Projekt (GBInstagram)</string>
     <string name="gbinsta_title">Folgen Sie unserem anderen Projekt</string>
-    <string name="gbinsta_msg">"GBInstagram mit vielen tollen Features    
+    <string name="gbinsta_msg">"GBInstagram mit vielen tollen Features
 \u0009
 \u0009*Download Bilder/Videos
 \u0009*Download Stories
@@ -904,9 +904,9 @@
 \u0009*Kopieren/Übertragen von Kommentaren
 \u0009*Vorschau Videos in Ihrem Lieblings-Video-Player
 \u0009*Support-Links in der App
-\u0009*wird wissen, wer Ihnen folgt"</string>     
+\u0009*wird wissen, wer Ihnen folgt"</string>
   <string name="actionbar_style">1.1.15 Aktionsleisten Stil</string>
-    <string name="tooltip_msg_revoked">Diese Nachricht wurde von user</string> widerrufen
+    <string name="tooltip_msg_revoked">Diese Nachricht wurde von user</string> widerrufen</string>
     <string name="disable_internt">Deaktiviere Internet</string>
     <string name="enable_internt">Aktiviere Internet</string>
     <string name="chat_hide_internet_icon">2.1.10 Ausblenden deaktiviere Internet-Symbol</string>
