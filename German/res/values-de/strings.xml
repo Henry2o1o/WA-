@@ -560,7 +560,7 @@
     <string name="widget_hide_online_status">Online</string>
     <string name="widget_show_online_status">Offline</string>
     <string name="change_password">Passwort ändern</string>
-    <string name="passwort">Passwort</string>
+    <string name="password">Passwort</string>
     <string name="set_password">Passwort ändern</string>
     <string name="get_password">Eingabe des Passwortes</string>
     <string name="delete_password">Passwort löschen</string>
