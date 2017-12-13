@@ -664,7 +664,7 @@
     <string name="HidePlay">Spielzustand ausblenden</string>
     <string name="HideRecord">Aufnahmestatus ausblenden</string>
     <string name="HideCompose">Typisierungsstatus ausblenden</string>
-    <string name="Danke">Danke</string>
+    <string name="Thanks">Danke</string>
     <string name="language_title">10 Sprachen App</string>
     <string name="google_plus">Google+</string>
     <string name="google_plus_sum">Folgen Sie mir auf Google+</string>
@@ -725,7 +725,7 @@
     <string name="time_online_toast_7">7 Sekunden</string>
     <string name="time_online_toast_8">8 Sekunden</string>
     <string name="time_online_toast_9">9 Sekunden</string>
-    <string name="Benachrichtigung_emoji_icon_mod">3.14 Emoji Symbol</string>
+    <string name="notification_emoji_icon_mod">3.14 Emoji Symbol</string>
     <string name="notification_emoji_icon_summary">Emoji Symbolfarbe auswählen</string>
     <string name="popup_text_entry_bg_mod">3.15 Texteingabe Hintergrund</string>
     <string name="popup_text_entry_bg_summary">Farbe für Texteingabehintergrund wählen</string>
