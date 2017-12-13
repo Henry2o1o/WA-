@@ -1,6 +1,6 @@
     <string name="crash_toast_text">Ooooops! Ich stürzte ab, aber ein Bericht wurde an meinen Entwickler geschickt, um ihm zu helfen das Problem zu beheben!</string>
     <string name="crash_dialog_title">OpenFixMap ist abgestürzt</string>
-    <string name="crash_dialog_text">"Ein unerwarteter Fehler trat auf und zwang die Anwendung zum Stoppen. Bitte helfen Sie uns, dies zu beheben, indem Sie uns die Fehlerdaten zusenden, alles was Sie tun müssen, ist auf 'OK' zu tippen."</string>
+    <string name="crash_dialog_text">"Ein unerwarteter Fehler trat auf und zwang die Anwendung zum Stoppen. Bitte helfen Sie uns dies zu beheben, indem Sie uns die Fehlerdaten zusenden. Alles was Sie tun müssen, ist auf 'OK' zu tippen."</string>
     <string name="crash_dialog_comment_prompt">Sie können Ihre Kommentare zu dem Problem unten hinzufügen:</string>
     <string name="crash_dialog_ok_toast">Danke schön</string>
     <string name="statuscopy">Status in die Zwischenablage kopiert</string>
@@ -38,10 +38,10 @@
     <string name="typingg_mod">2.2.27 Tippen</string>
     <string name="statuss_mod">2.2.25 Status Symbol Farbe</string>
     <string name="statuss_read_mode">"2.2.26 Doppelte 'Blaue Haken' Farbe"</string>
-    <string name="chats_transparent_mode">2.6 Transparent Modus</string>
+    <string name="chats_transparent_mode">2.6 Transparent MOD</string>
     <string name="chats_transparent_mode_sb_color">2.6.1 Statusleiste Farbe</string>
     <string name="chats_transparent_mode_nav_color">2.6.2 Navleiste Farbe</string>
-    <string name="tutorial_rename_folder">Wenn Sie die Chats Historie von WhatsApp wiederherstellen wollen, stellen Sie sicher, dass Sie ein Backup von Ihren Nachrichten erstellt haben, dann können Sie es wiederherstellen, indem Sie den Knopf unten drücken, dann setzen Sie Ihre Nummer ein - drücken Sie auf (Überprüfen)</string>
+    <string name="tutorial_rename_folder">"Wenn Sie die Chats Historie von WhatsApp wiederherstellen wollen, stellen Sie sicher, dass Sie ein Backup von Ihren Nachrichten erstellt haben. Dann können Sie es wiederherstellen, indem Sie den Knopf unten drücken. Dann setzen Sie Ihre Nummer ein und drücken auf 'Überprüfen'"</string>
     <string name="failed_rename_toast">Nicht gefundene Daten reserviert</string>
     <string name="CopyDone">Wenn Sie die WhatsApp Daten erfolgreich kopiert haben, können Sie nun die Schritte durchführen!</string>
     <string name="CopyBtn">WhatsApp Daten kopieren</string>
@@ -82,7 +82,7 @@
     <string name="GBHideInfo">6.4 Datum und Name anzeigen</string>
     <string name="GBHideInfoSum">Zeige das Datum und den Namen beim Kopieren von 2 Nachrichten oder mehr</string>
     <string name="others">6 Sonstige MODS</string>
-    <string name="others_summary">Ihre Eingabe, um andere Mods anzuwenden</string>
+    <string name="others_summary">Ihre Eingabe, um andere MODs anzuwenden</string>
     <string name="donate_title">Spende an Dev!</string>
     <string name="donate_summary">Lieben Sie dieses MOD? Spenden Sie für mich!!</string>
     <string name="dialog_call_msg">Wollen Sie wirklich anrufen?</string>
